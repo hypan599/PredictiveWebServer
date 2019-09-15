@@ -1,0 +1,13 @@
+#mega
+!Title: Genetic distance data of N meningitidis strains;
+!Format DataType=Distance DataFormat=LowerLeft NTaxa=50;
+!Description
+Genetic distance data of N meningitidis strains based on predicted cgMLST;
+
+#CGT2044
+#CGT2010
+#CGT2006
+
+
+0.010000000000005116	
+0.060000000000002274	0.04999999999999716	
