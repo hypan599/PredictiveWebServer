@@ -1,5 +1,7 @@
 # LOKI - ecoLi OutbreaK Investigator
 
+## homework for Gatech bio 7201
+
 ## URL
 (http://predict2019t1.biosci.gatech.edu/)
 
